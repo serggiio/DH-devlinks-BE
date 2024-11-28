@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: devlinks
+  data:
+    mongodb:
+      uri: mongodb+srv://sergiocep2010:VXnyodkvBkmkzJFu@clusterdev.33fwb.mongodb.net/devlinks?retryWrites=true&w=majority&appName=ClusterDev
